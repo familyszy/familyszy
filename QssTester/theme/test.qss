@@ -1,0 +1,143 @@
+
+/*水平滚动条设置begin*/
+QScrollBar:add-page:horizontal
+{
+    background-color: rgba(239,239,239,255);		
+    border:1px rgba(221,221,221,255);
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+QScrollBar:sub-page:horizontal
+{
+	background-color: rgba(239,239,239,255);
+	border:1px rgba(221,221,221,255);
+    border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+QScrollBar:horizontal
+{	
+	height:  10px;	     
+	margin: 0px 10px 0px 10px;
+	background-color: rgba(239,239,239,255);  	
+	border: 1px rgba(239,239,239,255);
+	border-radius:4px;
+}
+
+QScrollBar::handle:horizontal
+{
+    border:1px rgba(221,221,221,255);
+    border-radius: 4px;
+    background-color: rgba(221,221,221,255);
+    min-width : 20px;
+}
+
+QScrollBar::add-line:horizontal
+{
+	width:10px;
+    background-color: solid gray;
+	subcontrol-position: right;  
+    subcontrol-origin: margin;  
+}
+
+QScrollBar::sub-line:horizontal
+{
+    background-color: solid gray;
+    width: 10px;
+	subcontrol-position: left;  
+    subcontrol-origin: margin;  
+}
+
+QScrollBar::left-arrow:horizontal
+{
+    border-image: url(../images/cScrollBarLeft.png);
+}
+QScrollBar::left-arrow:horizontal:hover
+{
+    border-image: url(../images/cScrollBarLeftRollOver.png);
+}
+
+QScrollBar::right-arrow:horizontal
+{	
+    border-image: url(../images/cScrollBarRight.png);
+}
+
+QScrollBar::right-arrow:horizontal:hover
+{	
+    border-image: url(../images/cScrollBarRightRollOver.png);
+}
+
+/*水平滚动条设置end*/
+/***************************************************************/
+
+/*垂直滚动条设置begin*/
+
+QScrollBar:add-page:vertical
+{
+    background-color: rgba(239,239,239,255);	
+	
+    border:1px rgba(221,221,221,255);
+    border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+
+}
+QScrollBar:sub-page:vertical
+{
+	background-color: rgba(239,239,239,255);
+	border:1px rgba(221,221,221,255);
+    border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+QScrollBar::add-line:vertical
+{
+    background-color: solid gray;
+    height: 10px;
+    
+    subcontrol-position: bottom;  
+    subcontrol-origin: margin;  
+}
+
+QScrollBar::sub-line:vertical
+{
+    background-color: solid gray;
+    height: 10px;	
+    subcontrol-position: top;  
+    subcontrol-origin: margin;  
+}
+QScrollBar::handle:vertical
+{
+    border:1px rgba(221,221,221,255);
+    border-radius: 4px;
+    background-color: rgba(221,221,221,255);
+    min-height : 20px;
+}
+
+QScrollBar:vertical
+{
+	width:  10px;
+	margin: 11px 0px 11px 0px;   
+	background: rgba(239,239,239,255);  	
+	border: 1px rgba(239,239,239,255);
+	border-radius:3px;
+}
+
+QScrollBar::up-arrow:vertical
+{
+    border-image: url(../images/cScrollBarUp.png);
+}
+QScrollBar::up-arrow:vertical:hover
+{
+    border-image: url(../images/cScrollBarUpRollOver.png);
+}
+
+QScrollBar::down-arrow:vertical
+{	
+    border-image: url(../Images/cScrollBarDown.png);
+}
+
+QScrollBar::down-arrow:vertical:hover
+{	
+    border-image: url(../Images/cScrollBarDownRollOver.png);
+}
+/*垂直滚动条设置end*/
+/***************************************************************/

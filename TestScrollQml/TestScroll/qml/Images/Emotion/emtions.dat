@@ -1,0 +1,266 @@
+<array>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="smile"/>
+   <arg attribute="desc" type="QString" value="smile"/>
+   <arg attribute="filename" type="QString" value="smile"/>
+  </args>
+  <shortcuts>
+   <shortcut>:)</shortcut>
+   <shortcut>:-)</shortcut>
+   <shortcut>:]</shortcut>
+   <shortcut>=)</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="frown"/>
+   <arg attribute="desc" type="QString" value="frown"/>
+   <arg attribute="filename" type="QString" value="frown"/>
+  </args>
+  <shortcuts>
+   <shortcut>:(</shortcut>
+   <shortcut>:-(</shortcut>
+   <shortcut>:[</shortcut>
+   <shortcut>=(</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="tongue"/>
+   <arg attribute="desc" type="QString" value="tongue"/>
+   <arg attribute="filename" type="QString" value="tongue"/>
+  </args>
+  <shortcuts>
+   <shortcut>:p</shortcut>
+   <shortcut>:-p</shortcut>
+   <shortcut>=P</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="grin"/>
+   <arg attribute="desc" type="QString" value="grin"/>
+   <arg attribute="filename" type="QString" value="grin"/>
+  </args>
+  <shortcuts>
+   <shortcut>:D</shortcut>
+   <shortcut>:-D</shortcut>
+   <shortcut>=D</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="gasp"/>
+   <arg attribute="desc" type="QString" value="gasp"/>
+   <arg attribute="filename" type="QString" value="gasp"/>
+  </args>
+  <shortcuts>
+   <shortcut>:O</shortcut>
+   <shortcut>:-O</shortcut>
+   <shortcut>:o</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="wink"/>
+   <arg attribute="desc" type="QString" value="wink"/>
+   <arg attribute="filename" type="QString" value="wink"/>
+  </args>
+  <shortcuts>
+   <shortcut>;)</shortcut>
+   <shortcut>;-)</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="glasses"/>
+   <arg attribute="desc" type="QString" value="glasses"/>
+   <arg attribute="filename" type="QString" value="glasses"/>
+  </args>
+  <shortcuts>
+   <shortcut>8)</shortcut>
+   <shortcut>8-)</shortcut>
+   <shortcut>B)</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="sunglasses"/>
+   <arg attribute="desc" type="QString" value="sunglasses"/>
+   <arg attribute="filename" type="QString" value="sunglasses"/>
+  </args>
+  <shortcuts>
+   <shortcut>8|</shortcut>
+   <shortcut>8-|</shortcut>
+   <shortcut>B|</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="grumpy"/>
+   <arg attribute="desc" type="QString" value="grumpy"/>
+   <arg attribute="filename" type="QString" value="grumpy"/>
+  </args>
+  <shortcuts>
+   <shortcut>>:(</shortcut>
+   <shortcut>>:-(</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="unsure"/>
+   <arg attribute="desc" type="QString" value="unsure"/>
+   <arg attribute="filename" type="QString" value="unsure"/>
+  </args>
+  <shortcuts>
+   <shortcut>:/</shortcut>
+   <shortcut>:-/</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="cry"/>
+   <arg attribute="desc" type="QString" value="cry"/>
+   <arg attribute="filename" type="QString" value="cry"/>
+  </args>
+  <shortcuts>
+   <shortcut>:'(</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="devil"/>
+   <arg attribute="desc" type="QString" value="devil"/>
+   <arg attribute="filename" type="QString" value="devil"/>
+  </args>
+  <shortcuts>
+   <shortcut>3:)</shortcut>
+   <shortcut>3:-)</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="kiss"/>
+   <arg attribute="desc" type="QString" value="kiss"/>
+   <arg attribute="filename" type="QString" value="kiss"/>
+  </args>
+  <shortcuts>
+   <shortcut>:*</shortcut>
+   <shortcut>:-*</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="heart"/>
+   <arg attribute="desc" type="QString" value="heart"/>
+   <arg attribute="filename" type="QString" value="heart"/>
+  </args>
+  <shortcuts>
+   <shortcut>&lt;3</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="kiki"/>
+   <arg attribute="desc" type="QString" value="kiki"/>
+   <arg attribute="filename" type="QString" value="kiki"/>
+  </args>
+  <shortcuts>
+   <shortcut>^_^</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="squint"/>
+   <arg attribute="desc" type="QString" value="squint"/>
+   <arg attribute="filename" type="QString" value="squint"/>
+  </args>
+  <shortcuts>
+   <shortcut>-_-</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="confused"/>
+   <arg attribute="desc" type="QString" value="confused"/>
+   <arg attribute="filename" type="QString" value="confused"/>
+  </args>
+  <shortcuts>
+   <shortcut>O.o</shortcut>
+   <shortcut>o.O</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="upset"/>
+   <arg attribute="desc" type="QString" value="upset"/>
+   <arg attribute="filename" type="QString" value="upset"/>
+  </args>
+  <shortcuts>
+   <shortcut>>:O</shortcut>
+   <shortcut>>:-O</shortcut>
+   <shortcut>>:o</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="pacman"/>
+   <arg attribute="desc" type="QString" value="pacman"/>
+   <arg attribute="filename" type="QString" value="pacman"/>
+  </args>
+  <shortcuts>
+   <shortcut>:v</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="robot"/>
+   <arg attribute="desc" type="QString" value="robot"/>
+   <arg attribute="filename" type="QString" value="robot"/>
+  </args>
+  <shortcuts>
+   <shortcut>:|]</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="Chris Putnam"/>
+   <arg attribute="desc" type="QString" value="Chris Putnam"/>
+   <arg attribute="filename" type="QString" value="Chris Putnam"/>
+  </args>
+  <shortcuts>
+   <shortcut>:putnam:</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="shark"/>
+   <arg attribute="desc" type="QString" value="shark"/>
+   <arg attribute="filename" type="QString" value="shark"/>
+  </args>
+  <shortcuts>
+   <shortcut>(^^^)</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="penguin"/>
+   <arg attribute="desc" type="QString" value="penguin"/>
+   <arg attribute="filename" type="QString" value="penguin"/>
+  </args>
+  <shortcuts>
+   <shortcut>&lt;(")</shortcut>
+  </shortcuts>
+ </item>
+ <item className="IMModule::Emotion">
+  <args>
+   <arg attribute="name" type="QString" value="like"/>
+   <arg attribute="desc" type="QString" value="like"/>
+   <arg attribute="filename" type="QString" value="like"/>
+  </args>
+  <shortcuts>
+   <shortcut>(Y)</shortcut>
+  </shortcuts>
+ </item>
+</array>
